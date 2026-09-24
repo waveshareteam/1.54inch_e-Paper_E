@@ -14,7 +14,7 @@
 ## 仓库结构
 
 ```text
-5inch_e-Paper/
+1.54inch_e-Paper_E/
 ├── assets/                     # 产品图片
 ├── example/                    # 示例程序
 │   ├── Arduino_R4/             # Arduino UNO R4 示例
@@ -52,7 +52,7 @@
 
 如果您遇到任何问题：
 
-- 请先查看 [Issues](https://github.com/waveshareteam/5inch_e-Paper/issues) 版块。
+- 请先查看 [Issues](https://github.com/waveshareteam/1.54inch_e-Paper_E/issues) 版块。
 - 创建一个新的 Issue 并提供详细信息。
 - 参考产品文档获取故障排除提示。
 - 联系微雪团队并提供订单号以获取技术支持。
