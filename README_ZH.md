@@ -1,4 +1,4 @@
-# Waveshare 5inch e-Paper 产品工程示例程序
+# Waveshare 1.54inch e-Paper (E) 产品工程示例程序
 
 [English](README.md)
 
