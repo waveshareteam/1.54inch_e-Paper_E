@@ -14,7 +14,7 @@ The 1.54inch E-Paper (E) is a full-color e-ink screen with a resolution of 240 x
 ## Repository Structure
 
 ```text
-5inch_e-Paper/
+1.54inch_e-Paper_E/
 ├── assets/                     # Product images
 ├── example/                    # Example programs
 │   ├── Arduino_R4/             # Arduino UNO R4 example
@@ -52,7 +52,7 @@ We welcome contributions! Here's how you can help:
 
 If you encounter any issues:
 
-- Check the [Issues](https://github.com/waveshareteam/5inch_e-Paper/issues) section.
+- Check the [Issues](https://github.com/waveshareteam/1.54inch_e-Paper_E/issues) section.
 - Create a new issue with detailed information.
 - Refer to the documentation for troubleshooting tips.
 - Contact the Waveshare team and provide the order number to obtain technical support.
