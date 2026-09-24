@@ -1,8 +1,8 @@
-# Waveshare 5inch e-Paper Product Engineering Sample Program
+# Waveshare 1.54inch E-Paper (E) Product Engineering Sample Program
 
 [中文](README_ZH.md)
 
-The 1.54-inch E-Paper (E) is a full-color e-ink screen with a resolution of 240 x 240. It adopts the SPI communication interface and features low power consumption, wide viewing Angle and the ability to retain the last screen display content when power is off. The module version can be connected to main control boards such as Raspberry Pi, Arduino, STM32, ESP32, etc. through the SPI interface.
+The 1.54inch E-Paper (E) is a full-color e-ink screen with a resolution of 240 x 240. It adopts the SPI communication interface and features low power consumption, wide viewing Angle and the ability to retain the last screen display content when power is off. The module version can be connected to main control boards such as Raspberry Pi, Arduino, STM32, ESP32, etc. through the SPI interface.
 
 - [Purchase Link](https://www.waveshare.com/1.54inch-e-paper-E-hat.htm)
 - [Documentation](https://docs.waveshare.com/1.54inch_e-Paper_E)
