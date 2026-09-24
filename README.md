@@ -4,7 +4,7 @@
 
 The 1.54inch E-Paper (E) is a full-color e-ink screen with a resolution of 240 x 240. It adopts the SPI communication interface and features low power consumption, wide viewing Angle and the ability to retain the last screen display content when power is off. The module version can be connected to main control boards such as Raspberry Pi, Arduino, STM32, ESP32, etc. through the SPI interface.
 
-- [Purchase Link](https://www.waveshare.com/1.54inch-e-paper-E-hat.htm)
+- [Purchase Link](https://www.waveshare.com/1.54inch-e-paper-e.htm?sku=35486)
 - [Documentation](https://docs.waveshare.com/1.54inch_e-Paper_E)
 
 ![Waveshare 1.54inch e-Paper (E)](assets/1.54inch-e-Paper-E-1.webp)
